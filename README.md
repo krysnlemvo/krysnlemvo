@@ -15,10 +15,20 @@
 
 
 ## 🎓 À propos de moi
+### 👨‍💻 À propos de moi
 
-Je suis étudiant en **BUT 2 Sciences des Données**, parcours **Visualisation, Conception d'Outils Décisionnels (VCOD)** à l'IUT de Roubaix, Université de Lille.
+🎓 Étudiant en **BUT 2 Sciences des Données**, parcours *Visualisation, Conception d'Outils Décisionnels (VCOD)* à l'IUT de Roubaix — Université de Lille.
 
-Je m'intéresse au traitement, à l'analyse et à la visualisation des données. À travers ma formation et mes projets, je développe progressivement mes compétences pour transformer des données en informations utiles à la prise de décision.
+📊 Passionné par l'analyse de données, la visualisation et la Business Intelligence, je développe progressivement mes compétences pour transformer les données en informations utiles à la prise de décision.
+
+🛠️ Je travaille notamment avec **Python, SQL, Excel, Power BI, R et SAS** dans le cadre de mon apprentissage et de mes projets.
+
+🚀 **Mon objectif :** poursuivre mon parcours dans le domaine de la Data et devenir Data Engineer.
+
+🔎 Je recherche un **stage à partir d'avril 2027, d'une durée minimale de 10 semaines**, dans le cadre de ma formation.
+
+
+
 ## 🛠️ Mes outils
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
