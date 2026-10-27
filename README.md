@@ -37,7 +37,7 @@ Je m'intéresse au traitement, à l'analyse et à la visualisation des données.
 ## 🚀 Mes projets
 
 ### 📦 Suivi des ventes et des stocks en pharmacie
-🔗 [Consulter le projet sur GitHub](https://github.com/NKB_DATA/stage-suivi-ventes-pharmacie)
+🔗 [Consulter le projet sur GitHub](https://github.com/krysnlemvo/stage-suivi-ventes-pharmacie)
 Projet réalisé à partir de mon expérience en pharmacie.
 
 **Objectifs :**
