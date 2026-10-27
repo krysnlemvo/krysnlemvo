@@ -16,15 +16,24 @@
 
 ## 👨‍💻 À propos de moi
 
-🎓 Étudiant en **BUT 2 Sciences des Données**, parcours *Visualisation, Conception d'Outils Décisionnels (VCOD)* à l'IUT de Roubaix — Université de Lille.
+### 👨‍💻 À propos de moi
 
-📊 Passionné par l'analyse de données, la visualisation et la Business Intelligence, je développe progressivement mes compétences pour transformer les données en informations utiles à la prise de décision.
+🎓 Étudiant en **BUT 2 Sciences des Données — parcours VCOD** à l'IUT de Roubaix, Université de Lille.
 
-🛠️ Je travaille notamment avec **Python, SQL, Excel, Power BI, R et SAS** dans le cadre de mon apprentissage et de mes projets.
+💡 Je m'intéresse à la manière dont les données sont collectées, organisées, transformées et exploitées pour produire des informations fiables et utiles.
 
-🚀 **Mon objectif :** poursuivre mon parcours dans le domaine de la Data et devenir Data Engineer.
+⚙️ **Mes centres d'intérêt :**
 
-🔎 Je recherche un **stage à partir d'avril 2027, d'une durée minimale de 10 semaines**, dans le cadre de ma formation.
+* 🐍 **Programmation :** Python et algorithmique.
+* 🗄️ **Bases de données :** SQL et MySQL.
+* 📊 **Analyse et visualisation :** Excel, Power BI et Qlik Sense.
+* 📈 **Statistiques et traitement des données :** R et SAS.
+* 🤖 **Technologies émergentes :** intelligence artificielle et automatisation du traitement des données.
+
+🚀 **Mon objectif professionnel :** devenir **Data Engineer**, en développant mes compétences en programmation, en gestion des bases de données et en préparation des données pour l'analyse.
+
+🔎 **Prochaine étape :** trouver un stage d'au moins 10 semaines à partir d'avril 2027 afin de mettre en pratique mes connaissances et de contribuer à des projets concrets liés à la Data.
+
 
 
 
