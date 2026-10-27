@@ -35,8 +35,6 @@
 🔎 **Prochaine étape :** trouver un stage d'au moins 10 semaines à partir d'avril 2027 afin de mettre en pratique mes connaissances et de contribuer à des projets concrets liés à la Data.
 
 
-
-
 ## 🛠️ Mes outils
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -49,22 +47,42 @@
 
 ## 💻 Mes compétences
 
-### 📊 Analyse et visualisation des données
+---
 
-* Microsoft Excel
-* Microsoft Power BI
-* Qlik Sense
-* Statistiques descriptives et analyse de données
+## 🛠️ Compétences techniques
 
-### 🗄️ Bases de données et programmation
+### 🐍 Programmation
 
-* Python
-* SQL et MySQL
-* R
-* Algorithmique
-* SAS
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Algorithmique-6C3483?style=for-the-badge" alt="Algorithmique"/>
+</p>
 
-*Ces compétences sont en cours de développement dans le cadre de ma formation et de mes projets.*
+### 🗄️ Bases de données
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
+
+### 📊 Analyse et Business Intelligence
+
+<p>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Qlik%20Sense-009845?style=for-the-badge&logo=qlik&logoColor=white" alt="Qlik Sense"/>
+</p>
+
+### 📈 Statistiques et traitement des données
+
+<p>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
+  <img src="https://img.shields.io/badge/SAS-00599C?style=for-the-badge&logo=sas&logoColor=white" alt="SAS"/>
+</p>
+
+### 🎯 Domaines d'intérêt
+
+`Data Engineering` · `Data Analytics` · `Business Intelligence` · `Intelligence artificielle`
 
 ## 🚀 Mes projets
 
