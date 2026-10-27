@@ -1,15 +1,21 @@
 ![Bannière NKB_DATA](https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:3B82F6&height=180&section=header&text=NKB_DATA&fontSize=50&fontColor=ffffff&animation=fadeIn)
-# <h1 align="center">Bonjour, moi c'est Krys Baubel N'LEMVO 👋</h1>
+<!-- BANNIÈRE -->
 
-<h3 align="center">Étudiant en BUT Sciences des Données | Data Analytics & Business Intelligence</h3>
+<div align="center">
 
-<p align="center">
-  📍 Roubaix, France · 🎓 IUT de Roubaix — Université de Lille
-</p>
 
-<p align="center">
-  Passionné par l'analyse, le traitement et la visualisation des données, je développe mes compétences à travers ma formation et des projets concrets.
-</p>
+
+
+👋 Bonjour, bienvenue sur mon profil !
+🎓 Étudiant en BUT 2 Sciences des Données — Parcours VCOD
+
+📍 IUT de Roubaix · Université de Lille, France
+
+Transformer les données en informations utiles à la prise de décision.
+
+</div>
+
+
 
 
 ## 🎓 À propos de moi
