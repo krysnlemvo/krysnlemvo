@@ -5,7 +5,7 @@
 ![Bannière bleue](https://capsule-render.vercel.app/api?type=waving\&color=0:0F172A,50:1D4ED8,100:38BDF8\&height=220\&section=header\&text=NKB_DATA\&fontSize=60\&fontColor=FFFFFF\&fontAlignY=38\&desc=Data%20Analytics%20%7C%20Business%20Intelligence\&descAlignY=60\&descSize=18)
 
 # 👋 Bonjour, bienvenue sur mon profil !
-# Nom: N'LEMVO     Prenom: Krys Baubel
+#         N'LEMVO   Krys Baubel
 ### 🎓 Étudiant en BUT 2 Sciences des Données — Parcours VCOD
 
 📍 IUT de Roubaix · Université de Lille, France
