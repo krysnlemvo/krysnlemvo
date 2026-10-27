@@ -1,4 +1,15 @@
-# 👋 Bonjour et bienvenue sur mon profil GitHub !
+# <h1 align="center">Bonjour, moi c'est Krys Baubel N'LEMVO 👋</h1>
+
+<h3 align="center">Étudiant en BUT Sciences des Données | Data Analytics & Business Intelligence</h3>
+
+<p align="center">
+  📍 Roubaix, France · 🎓 IUT de Roubaix — Université de Lille
+</p>
+
+<p align="center">
+  Passionné par l'analyse, le traitement et la visualisation des données, je développe mes compétences à travers ma formation et des projets concrets.
+</p>
+
 
 ## 🎓 À propos de moi
 
