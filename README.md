@@ -1,4 +1,4 @@
-# <h1 align="center">![Bannière NKB_DATA](https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:3B82F6&height=180&section=header&text=NKB_DATA&fontSize=50&fontColor=ffffff&animation=fadeIn)Bonjour, moi c'est Krys N'LEMVO 👋</h1>
+# <h1 align="center">![Bannière NKB_DTA](https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:3B82F6&height=180&section=header&text=NKB_DATA&fontSize=50&fontColor=ffffff&animation=fadeIn)Bonjour, moi c'est Krys N'LEMVO 👋</h1>
 
 <h3 align="center">Étudiant en BUT Sciences des Données | Data Analytics & Business Intelligence</h3>
 
@@ -18,13 +18,7 @@ Je suis étudiant en **BUT 2 Sciences des Données**, parcours **Visualisation, 
 Je m'intéresse au traitement, à l'analyse et à la visualisation des données. À travers ma formation et mes projets, je développe progressivement mes compétences pour transformer des données en informations utiles à la prise de décision.
 ## 🛠️ Mes outils
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Qlik Sense](https://img.shields.io/badge/Qlik%20Sense-009845?style=for-the-badge&logo=qlik&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SAS](https://img.shields.io/badge/SAS-00599C?style=for-the-badge\&logo=sas\&logoColor=white)
+<p> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/> <img src="https://img.shields.io/badge/Qlik_Sense-009845?style=for-the-badge&logo=qlik&logoColor=white" alt="Qlik Sense"/> </p>
 
 ## 💻 Mes compétences
 
@@ -36,7 +30,7 @@ Je m'intéresse au traitement, à l'analyse et à la visualisation des données.
 * Statistiques descriptives et analyse de données
 
 ### 🗄️ Bases de données et programmation
-
+<p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/> <img src="https://img.shields.io/badge/SAS-00599C?style=for-the-badge&logo=sas&logoColor=white" alt="SAS"/> </p>
 * Python
 * SQL et MySQL
 * R
