@@ -14,8 +14,7 @@
 
 
 
-## 🎓 À propos de moi
-### 👨‍💻 À propos de moi
+## 👨‍💻 À propos de moi
 
 🎓 Étudiant en **BUT 2 Sciences des Données**, parcours *Visualisation, Conception d'Outils Décisionnels (VCOD)* à l'IUT de Roubaix — Université de Lille.
 
