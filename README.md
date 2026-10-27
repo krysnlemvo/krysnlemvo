@@ -86,6 +86,28 @@
 
 ## 🚀 Mes projets
 
+<table>
+  <tr>
+    <td width="100%">
+      <h3>📊 Suivi des ventes et des stocks en pharmacie</h3>
+      <p>
+        Projet d'analyse et de visualisation de données visant à suivre les ventes,
+        les niveaux de stock et les commandes reçues dans le secteur pharmaceutique.
+      </p>
+      <p><strong>🎯 Objectifs :</strong></p>
+      <ul>
+        <li>Suivre les quantités de produits vendus.</li>
+        <li>Identifier les produits les plus vendus.</li>
+        <li>Analyser les niveaux de stock.</li>
+        <li>Suivre les montants des commandes reçues.</li>
+        <li>Présenter les indicateurs à l'aide d'un tableau de bord.</li>
+      </ul>
+      <p><strong>🛠️ Technologies :</strong> Microsoft Excel · Power BI</p>
+      <p><strong>📌 Statut :</strong> Projet en préparation pour présentation publique.</p>
+    </td>
+  </tr>
+</table>
+
 ### 📦 Suivi des ventes et des stocks en pharmacie
 
 🔗 [Consulter le projet sur GitHub](https://github.com/krysnlemvo/stage-suivi-ventes-pharmacie)
