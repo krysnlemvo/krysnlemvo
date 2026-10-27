@@ -3,10 +3,8 @@
 
 <div align="center">
 
-
-
-
 👋 Bonjour, bienvenue sur mon profil !
+
 🎓 Étudiant en BUT 2 Sciences des Données — Parcours VCOD
 
 📍 IUT de Roubaix · Université de Lille, France
