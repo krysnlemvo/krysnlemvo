@@ -1,135 +1,104 @@
+<!-- BANNIÈRE -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:0F172A,50:1D4ED8,100:06B6D4&text=NKB_DATA&fontSize=65&fontColor=FFFFFF&fontAlignY=45&desc=DATA%20ANALYTICS%20%7C%20BUSINESS%20INTELLIGENCE&descSize=16&descAlignY=65&animation=fadeIn" width="100%" alt="Bannière NKB_DATA"/>
-
-<br/>
+![Bannière bleue](https://capsule-render.vercel.app/api?type=waving\&color=0:0F172A,50:1D4ED8,100:38BDF8\&height=220\&section=header\&text=NKB_DATA\&fontSize=60\&fontColor=FFFFFF\&fontAlignY=38\&desc=Data%20Analytics%20%7C%20Business%20Intelligence\&descAlignY=60\&descSize=18)
 
 # 👋 Bonjour, bienvenue sur mon profil !
 
-### 🎓 BUT 2 Sciences des Données · Parcours VCOD
+### 🎓 Étudiant en BUT 2 Sciences des Données — Parcours VCOD
 
-**IUT de Roubaix — Université de Lille 🇫🇷**
+📍 IUT de Roubaix · Université de Lille, France
 
-*J'explore les données pour en extraire des informations utiles à la décision.*
-
-<br/>
-
-<img src="https://img.shields.io/badge/FOCUS-Data%20Analytics-2563EB?style=for-the-badge" alt="Data Analytics"/>
-<img src="https://img.shields.io/badge/FOCUS-Business%20Intelligence-0891B2?style=for-the-badge" alt="Business Intelligence"/>
-<img src="https://img.shields.io/badge-STATUS-En%20apprentissage-059669?style=for-the-badge" alt="En apprentissage"/>
+*Transformer les données en informations utiles à la prise de décision.*
 
 </div>
 
 ---
 
-## ✦ À propos de moi
+## 👨‍💻 À propos de moi
 
-Étudiant en **BUT 2 Sciences des Données**, parcours **Visualisation, Conception d'Outils Décisionnels (VCOD)**, je développe mes compétences dans le traitement, l'analyse et la visualisation des données.
+Je suis étudiant en **BUT 2 Sciences des Données**, parcours **Visualisation, Conception d'Outils Décisionnels (VCOD)**.
 
-J'aime organiser les données, étudier les indicateurs et concevoir des tableaux de bord qui facilitent leur compréhension.
+Je m'intéresse particulièrement à l'analyse des données, à la Business Intelligence et à la création de tableaux de bord.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+À travers ma formation et mes projets, je développe mes compétences pour collecter, organiser, analyser et visualiser les données.
 
-### 🎯 Mes centres d'intérêt
-
-* 📊 Analyse exploratoire des données
-* 📈 Data visualisation
-* 💡 Business Intelligence
-* 🗄️ Bases de données
-* 🧩 Outils d'aide à la décision
-
-</td>
-<td width="50%" valign="top">
-
-### 🚀 Mon objectif
-
-Développer mes compétences à travers des projets concrets et un **stage en lien avec ma formation**.
-
-Je souhaite approfondir progressivement mes connaissances en analyse des données et en informatique décisionnelle.
-
-</td>
-</tr>
-</table>
+🎯 **Mon objectif :** approfondir mes compétences en sciences des données et les mettre en pratique lors d'un stage en lien avec ma formation.
 
 ---
 
-## ✦ Ma boîte à outils
+## 🛠️ Mes outils et technologies
 
-### 📊 Data & Business Intelligence
+### 📊 Analyse et visualisation
 
-<div align="left">
-<img src="https://img.shields.io/badge/Microsoft_Excel-107C41?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827" alt="Power BI"/>
+<p>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
 <img src="https://img.shields.io/badge/Qlik_Sense-009845?style=for-the-badge&logo=qlik&logoColor=white" alt="Qlik Sense"/>
-</div>
+</p>
 
-### 💻 Programmation & statistiques
+### 💻 Programmation et bases de données
 
-<div align="left">
+<p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
 <img src="https://img.shields.io/badge/SAS-00599C?style=for-the-badge&logo=sas&logoColor=white" alt="SAS"/>
-</div>
+</p>
 
-### 🗄️ Bases de données
-
-<div align="left">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-</div>
-
-*Mes compétences évoluent au fil de ma formation et de mes réalisations.*
+*Je continue à développer et à consolider ces compétences au fil de ma formation et de mes projets.*
 
 ---
 
-## ✦ Projet mis en avant
+## 🚀 Mes projets
 
-<table>
-<tr>
-<td width="100%" valign="top">
+### 📦 01 — Suivi des ventes et des stocks en pharmacie
 
-### 📦 Suivi des ventes et des stocks en pharmacie
+**Objectif :** exploiter des données liées aux ventes, aux stocks et aux commandes afin de suivre plusieurs indicateurs d'activité.
 
-Projet basé sur mon expérience en pharmacie, consacré à l'organisation des données et au suivi d'indicateurs d'activité.
+**Travaux réalisés :**
 
-**Objectifs du projet**
+* Organisation et préparation des données avec Excel.
+* Suivi des quantités de produits vendus.
+* Identification des produits les plus vendus.
+* Suivi des niveaux de stock et des montants des commandes.
+* Création d'un tableau de bord avec Power BI.
 
-* Analyser les quantités de produits vendus.
-* Identifier les produits les plus vendus.
-* Suivre les niveaux de stock.
-* Examiner les montants des commandes reçues.
-* Présenter les indicateurs dans un tableau de bord.
+**Technologies :** Excel · Power BI
 
-**Outils :** Microsoft Excel · Microsoft Power BI
-
-> 🔒 Le projet est actuellement en préparation. Le dépôt restera privé jusqu'à la vérification des données et des autorisations de publication.
-
-</td>
-</tr>
-</table>
+🔒 *Projet en cours de préparation pour le portfolio. Le dépôt reste privé pendant la vérification des données et des autorisations de publication.*
 
 ---
 
-## ✦ En progression
+## 📚 Ce que je développe actuellement
 
-| Domaine          | Ce que je développe                                     |
-| :--------------- | :------------------------------------------------------ |
-| 📊 Analyse       | Organisation, exploration et interprétation des données |
-| 📈 Visualisation | Graphiques et tableaux de bord décisionnels             |
-| 🗄️ SQL          | Requêtes et manipulation de bases de données            |
-| 🐍 Programmation | Pratique de Python et traitement des données            |
-| 📉 Statistiques  | Analyse descriptive et méthodes statistiques            |
+* 📊 Analyse et visualisation des données.
+* 📈 Conception de tableaux de bord décisionnels.
+* 🗄️ Manipulation de bases de données et requêtes SQL.
+* 🐍 Programmation et traitement des données avec Python.
+* 📉 Analyse statistique et exploration des données.
 
 ---
+
+## 🤝 Restons en contact
+
+Je suis intéressé par les projets qui permettent d'explorer les données, de produire des analyses pertinentes et de construire des outils d'aide à la décision.
+
+N'hésitez pas à consulter régulièrement ce profil pour découvrir l'évolution de mes projets.
 
 <div align="center">
 
-### 💙 Merci de visiter mon profil !
+![Visiteurs du profil](https://komarev.com/ghpvc/?username=NKB_DATA\&color=2563EB\&style=flat-square\&label=Visiteurs+du+profil)
 
-*Curieux, motivé et en constante progression.*
+**Merci de votre visite !** 💙
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0F172A&height=120&section=footer" width="100%" alt="Bannière de fin"/>
+</div>
+
+<!-- PIED DE PAGE -->
+
+<div align="center">
+
+![Pied de page](https://capsule-render.vercel.app/api?type=waving\&color=0:0F172A,50:1D4ED8,100:38BDF8\&height=100\&section=footer)
 
 </div>
