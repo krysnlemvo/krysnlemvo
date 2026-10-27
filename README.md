@@ -1,4 +1,4 @@
-# <h1 align="center">Bonjour, moi c'est Krys N'LEMVO 👋</h1>
+# <h1 align="center">![Bannière NKB_DATA](https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:3B82F6&height=180&section=header&text=NKB_DATA&fontSize=50&fontColor=ffffff&animation=fadeIn)Bonjour, moi c'est Krys N'LEMVO 👋</h1>
 
 <h3 align="center">Étudiant en BUT Sciences des Données | Data Analytics & Business Intelligence</h3>
 
