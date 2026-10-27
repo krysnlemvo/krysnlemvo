@@ -38,8 +38,8 @@ Je m'intéresse au traitement, à l'analyse et à la visualisation des données.
 
 ### 📦 Suivi des ventes et des stocks en pharmacie
 
-Projet réalisé à partir de mon expérience en pharmacie.
 🔗 [Consulter le projet sur GitHub](https://github.com/krysnlemvo/stage-suivi-ventes-pharmacie)
+
 **Objectifs :**
 
 * Suivre les quantités de produits vendus.
