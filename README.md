@@ -1,4 +1,4 @@
-# <h1 align="center">Bonjour, moi c'est NKB_DATA 👋</h1>
+# <h1 align="center">Bonjour, moi c'est Krys N'LEMVO 👋</h1>
 
 <h3 align="center">Étudiant en BUT Sciences des Données | Data Analytics & Business Intelligence</h3>
 
